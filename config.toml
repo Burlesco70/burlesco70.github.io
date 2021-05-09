@@ -5,6 +5,7 @@ languageCode = "en"
 title = "CV Mario Nardi"
 theme = "hugo-devresume-theme"
 publishDir = "public"
+defaultContentLanguageInSubdir= true
 googleAnalytics = "UA-XXXXXXX-Y"
 
 
