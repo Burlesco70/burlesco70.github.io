@@ -4,11 +4,14 @@ baseURL = "https://burlesco70.github.io/"
 languageCode = "en"
 title = "CV Mario Nardi"
 theme = "hugo-devresume-theme"
-publishDir = "public"
-defaultContentLanguageInSubdir= true
 googleAnalytics = "UA-XXXXXXX-Y"
 
-
+publishDir = "public"
+defaultContentLanguageInSubdir= true
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+enableRobotsTXT = true
+staticDir = ["static"]
 
 
 
