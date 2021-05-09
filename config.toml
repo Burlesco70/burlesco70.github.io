@@ -4,6 +4,7 @@ baseURL = "https://burlesco70.github.io/"
 languageCode = "en"
 title = "CV Mario Nardi"
 theme = "hugo-devresume-theme"
+publishDir = "public"
 googleAnalytics = "UA-XXXXXXX-Y"
 
 
