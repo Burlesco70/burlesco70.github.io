@@ -1,2 +1,2 @@
 # burlesco70.github.io
-Public CV site
+Public CV site done with Hugo
