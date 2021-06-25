@@ -6,14 +6,12 @@ title = "CV Mario Nardi"
 theme = "hugo-devresume-theme"
 googleAnalytics = "UA-XXXXXXX-Y"
 
-publishDir = "public"
+publishDir = "docs"
 defaultContentLanguageInSubdir= true
 pygmentsUseClasses = true
 pygmentsCodeFences = true
 enableRobotsTXT = true
 staticDir = ["static"]
-
-
 
 
 [params]
@@ -24,20 +22,11 @@ staticDir = ["static"]
     primaryColor = "#54B689"
     textPrimaryColor = "#292929"
 
-
-
-
     [params.profile]
         enable = true
         name = "Mario Nardi"
         tagline = "Senior IT Specialist"
         avatar = "avatar.png"
-
-
-
-
-
-
 
     [params.contact]
         enable = true
@@ -51,12 +40,6 @@ staticDir = ["static"]
         icon = "fas fa-globe"
         url = "https://linkedin.com/in/mario-nardi-017705100/"
         text = "Linkedin"
-
-
-
-
-
-
 
     [params.skills]
         enable = true
@@ -86,13 +69,6 @@ staticDir = ["static"]
         [[params.skills.list.items]]
         details = "Effective communication"
 
-
-
-
-
-
-
-
     [params.education]
         enable = true
 
@@ -105,13 +81,6 @@ staticDir = ["static"]
         university = "Scrum Alliance"
         dates = "2015"
 
-
-
-
-
-
-
-
     [params.awards]
         enable = false
 
@@ -123,13 +92,6 @@ staticDir = ["static"]
         name = "Award Donec Sodales"
         body = "Oracle Aenean"
         date = "2017"
-
-
-
-
-
-
-
 
     [params.languages]
         enable = true
@@ -144,13 +106,6 @@ staticDir = ["static"]
         name = "Spanish"
         level = "Amateur"
 
-
-
-
-
-
-
-
     [params.interests]
         enable = true
 
@@ -161,23 +116,9 @@ staticDir = ["static"]
         [[params.interests.list]]
         name = "Travelling"
 
-
-
-
-
-
-
-
     [params.summary]
         enable = true
         text = "I am a self-motivated professional, with almost 25 years of experience as Software Engineer: business analysis, design, development, testing and release process. Making banking business real."
-
-
-
-
-
-
-
 
     [params.experience]
         enable = true
@@ -216,17 +157,6 @@ staticDir = ["static"]
         [[params.experience.list.items]]
         details = "... and many others"
 
-
-
-
-
-
-
-
-
-
-
-
     [params.projects]
         enable = true
 
@@ -250,15 +180,6 @@ staticDir = ["static"]
         meta = "Photography"
         tagline = "Group member"
 
-
-
-
-
-
-
-
-
-
     [params.information]
         enable = false
 
@@ -273,13 +194,6 @@ staticDir = ["static"]
         title = "Interests"
         details = "Trekking, Photography, Writing , Travelling"
 
-
-
-
-
-
-
-
     [params.social]
         enable = true
 
@@ -291,8 +205,3 @@ staticDir = ["static"]
         icon = "fab fa-linkedin"
         url = "//linkedin.com/in/mario-nardi-017705100/"
         title = "Mario Nardi"
-
-
-
-
-
